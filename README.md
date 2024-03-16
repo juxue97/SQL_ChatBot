@@ -7,4 +7,4 @@ Note - the database is just example
      - lastly ask 'show me the database" again to view the result.
 
 App's Url:
-https://sqlbot123.streamlit.app/
+https://sqlbot123456.streamlit.app/
